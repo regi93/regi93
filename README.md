@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a>
+<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/></a>
 
-<a href="mailto:hellgey777@naver.com" target="_blank"><img src="https://img.shields.io/badge/hellgey777@naver.com-000000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="mailto:hellgey777@naver.com" target="_blank"><img src="https://img.shields.io/badge/hellgey777@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
 
